@@ -31,7 +31,7 @@ h1 {
 
 nav, nav ul, nav li, nav li a{
 	background-color: #1d396d;
-	
-
-
-}
+	list-style: none;
+	margin: 0;
+	text-align: center;
+}	
