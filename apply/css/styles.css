@@ -29,9 +29,31 @@ h1 {
 
 /* Style rules for navigation area. */
 
-nav, nav ul, nav li, nav li a{
+nav nav ul, nav li, nav li a{
 	background-color: #1d396d;
 	list-style: none;
 	margin: 0;
 	text-align: center;
-}	
+}
+
+nav li a{
+	display: inline-block;
+	font-size: 1.5em;
+	font-family: Verdana, Arial, sans-serif;
+	font-weight: bold;
+}
+
+nav li a{
+	display: inline-block;
+	color: #e3eaf8;
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+	padding-left:2em;
+	padding-right: 2em;
+}
+
+/* Style rule for main content */
+
+main{
+	
+}
