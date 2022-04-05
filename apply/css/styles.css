@@ -55,5 +55,50 @@ nav li a{
 /* Style rule for main content */
 
 main{
+	padding: 2%;
+	font-family: Geneva, Aril, sans-serif;
+	overflow: auto;
+}
+
+main p{
+	font-size: 1.25em;
+}
+
+main h3{
+	padding-top: 2%;
+	font-size: 1.25em;
+}
+
+#image{
+	width: 45%;
+	float: left;
+	padding: 1%;
+}
+
+#group{
+	width: 45%;
+	float: right;
+}
+
+#external{
+	font-color: #1d396d;
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* Style rules for footer content */
+
+#footer{
+	text-align: center;
+	font-size: 0.85em;
+	background-color: #1d396d;
+	font: #e3eaf8;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	padding-left: 0%;
+	padding-right: 0%;
+}
+
+.external{
 	
 }
