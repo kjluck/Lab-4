@@ -1,9 +1,9 @@
 /*
-Author: Maria Cruz
-Date: Current Date
+Author: Kenneth Luck
+Date: April 5, 2022
 File Name: styles.css
 */
-
+<link rel="stylesheet" href="extend04.html">
 /* CSS Reset */
 body, header, nav, main, footer, h1, h2 {
     margin: 0;
@@ -58,9 +58,42 @@ main a {
 }
 
 /* Orange */
+.orange-hex{
+  background-color: #FFA500;
+}
 
+.orange-rgb{
+  background-color: 255,165,0;
+}
+
+.orange-hsl{
+  background-color: 36, 100%, 50%;
+}
 
 /* Purple */
 
+.purple-hex{
+  background-color: #993399;
+}
+
+.purple-rbg{
+  background-color: 153,51,153;
+}
+
+.purple-hsl{
+  background-color: 300, 50%, 40%;
+}
 
 /* Green */
+
+.green-hex{
+  background-color: #33cc33;
+}
+
+.green-rbg{
+  background-color: 51, 204, 51;
+}
+
+.green-hsl{
+  background-color: 120, 60%, 50%;
+}
